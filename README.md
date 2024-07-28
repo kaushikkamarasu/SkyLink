@@ -1,1 +1,2 @@
-skylink
+SkyLink - A video conferencing app
+
